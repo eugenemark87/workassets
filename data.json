@@ -1,0 +1,88 @@
+[
+  {
+    "company": "iRace Media",
+    "role": "Application Developer",
+    "screenshots": [
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace1.png",
+        "caption": "1/8 With the added carousel, users can navigate directly from home page to the race card page, improving the overall user experience."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace2.png",
+        "caption": "2/8 Revamped the UI/UX. Clicking the 'expand all' link will expand all horse details at once, improving the user experience."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace3.png",
+        "caption": "3/8 With added race replay videos, increased user engagement."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace4.png",
+        "caption": "4/8 Implemented tipster panel featuring 4 expert selections per tipster, aimed at providing users with valuable insights and helping them make more informed betting decisions, ultimately driving traffic and engagement."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace5.png",
+        "caption": "5/8 Easy-to-use data entry UI for the tipster panel, allowing real-time updates on the front-end page to reflect tipster selections instantly."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace6.png",
+        "caption": "6/8 Automated data loading process with single button click, significantly reducing manual upload efforts. (Apologise for picture quality)"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace7.png",
+        "caption": "7/8 Interface to verify the accuracy of data submitted to clients. Implemented automated comments in red, improving editorial turnaround."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/irace8.png",
+        "caption": "8/8 Automated the process of transferring data from Excel to the publishing system, replacing manual entry with a streamlined import function via a built application module, improving efficiency and minimizing human errors."
+      }
+    ]
+  },
+  {
+    "company": "Athena Innovations",
+    "role": "Application Developer",
+    "screenshots": [
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/athena1.png",
+        "caption": "1/5 Displays a centralized view of requests submitted by corporate clients. Travel consultants can easily track, review, and manage incoming requests—streamlining what was previously handled via email."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/athena2.png",
+        "caption": "2/5 This interface allows corporate clients to submit new trip bookings or request amendments to existing itineraries which streamlines the request process, replacing back-and-forth emails with a structured, trackable submission system."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/athena3.png",
+        "caption": "3/5 This page provides clients with a clear, organized summary of their itinerary information."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/athena4.png",
+        "caption": "4/5 This mobile app allows corporate clients to view their trip details and receive updates when changes are made. An Updated flag alerts clients to new itinerary changes, and they can easily chat with their travel consultant directly from the app."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/athena5.png",
+        "caption": "5/5 This desktop application operates at the travel agency premises as a system integrator, efficiently sending client and trip information to support the remote web and mobile apps. It ensures seamless data synchronization between local systems and client-facing platforms."
+      }
+    ]
+  },
+  {
+    "company": "Nanyang Polytechnic",
+    "role": "Development Technologist",
+    "screenshots": [
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/nyp1.png",
+        "caption": "1/4 The homepage displays dynamic content populated from a backend Content Management System , allowing non-technical users to easily update events, highlights sections without modifying the codebase."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/nyp2.png",
+        "caption": "2/4 This page displays a list of current job openings, with all postings dynamically pulled from the backend CMS. Content managers can easily create, edit, or remove job listings without developer involvement, ensuring up-to-date recruitment information."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/nyp3.png",
+        "caption": "3/4 This backend interface allows administrators to create, edit, and manage job vacancies within the CMS. Listings added here are dynamically displayed on the public-facing job vacancies page, enabling efficient and non-technical content management."
+      },
+      {
+        "src": "https://raw.githubusercontent.com/eugenemark87/workassets/refs/heads/main/nyp4.png",
+        "caption": "4/4 This backend page allows administrators to create new job postings through a structured form. Once saved, the vacancy is published dynamically to the public job listings page."
+      }
+    ]
+  }
+]
